@@ -1,0 +1,21 @@
+@model List<AllTheBeansApp.Models.Bean>
+
+
+    <div class="container text-center">
+        <h1>Our Beans</h1>
+        <ul class="list-group">
+            @foreach (var bean in Model)
+            {
+                <li class="list-group-item">
+                    <a asp-action="Index" asp-route-currentDay="@bean.DayOfTheWeek">
+                        <img src="@bean.ImageUrl" alt="@bean.Name" class="img-fluid" />
+                        <h2>@bean.Name</h2>
+                        <p><strong>Cost per 100g:</strong> £@bean.CostPer100g</p>
+                        <p><strong>Aroma:</strong> @bean.Aroma</p>
+                        <p><strong>Colour:</strong> @bean.Colour</p>
+                        <p><strong>Day of the Week:</strong> @bean.DayOfTheWeek</p>
+                    </a>
+                </li>
+            }
+        </ul>
+    </div>

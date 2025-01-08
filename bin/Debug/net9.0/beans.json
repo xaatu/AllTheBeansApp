@@ -1,0 +1,58 @@
+[
+    {
+        "Name": "Arabica",
+        "CostPer100g": 3.62,
+        "Aroma": "Chocolate, Nuts, Caramel",
+        "Colour": "Dark Brown",
+        "DayOfTheWeek": "Monday",
+        "ImageUrl": "/images/arabica.jpg"
+    },
+    {
+        "Name": "Robusta",
+        "CostPer100g": 1.39,
+        "Aroma": "Strong, Acidic, Pleasantly bitter",
+        "Colour": "Light Brown",
+        "DayOfTheWeek": "Tuesday",
+        "ImageUrl": "/images/robusta.jpg"
+    },
+    {
+        "Name": "Liberica",
+        "CostPer100g": 4.50,
+        "Aroma": "Floral, Fruity, Complex",
+        "Colour": "Light Brown",
+        "DayOfTheWeek": "Wednesday",
+        "ImageUrl": "/images/liberica.jpg"
+    },
+    {
+        "Name": "Excelsa",
+        "CostPer100g": 4.74,
+        "Aroma": "Strong",
+        "Colour": "Reddish Brown",
+        "DayOfTheWeek": "Thursday",
+        "ImageUrl": "/images/excelsa.jpg"
+    },
+    {
+        "Name": "Caturra",
+        "CostPer100g": 3.00,
+        "Aroma": "Berries, Citrus, Cocoa, Nutmeg",
+        "Colour": "Yellowish Brown",
+        "DayOfTheWeek": "Friday",
+        "ImageUrl": "/images/caturra.jpg"
+    },
+    {
+        "Name": "Bourbon",
+        "CostPer100g": 3.75,
+        "Aroma": "Sweet, Citrus, Honeycomb",
+        "Colour": "Dark Brown",
+        "DayOfTheWeek": "Saturday",
+        "ImageUrl": "/images/bourbon.jpg"
+    },
+    {
+        "Name": "Heinz Baked Beans",
+        "CostPer100g": 0.50,
+        "Aroma": "Beany",
+        "Colour": "A pale bean, typically in a sweet tomato sauce",
+        "DayOfTheWeek": "Sunday",
+        "ImageUrl": "/images/beans.jpg"
+    }
+]

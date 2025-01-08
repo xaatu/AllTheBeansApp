@@ -1,0 +1,265 @@
+/* General styles */
+html {
+  transition: 0.3s;
+  font-size: 16px;
+  position: relative;
+  min-height: 100%;
+  height: 100%;
+  margin: 0;
+}
+
+/* Main Section */
+body {
+  display: flex;
+  flex-direction: column;
+  height: 100%;
+  transition: padding-top 0.3s ease; 
+  background-color: white;
+  text-align: center;
+}
+
+/* Link Styles (Our Beans view) */
+a {
+  color: #000000;
+}
+
+/* Footer styles */
+.footer {
+  position: fixed;
+  bottom: 0;
+  width: 100%;
+  white-space: nowrap;
+  line-height: 50px;
+  background-color: #000000;
+  color: white;
+}
+
+/* Footer text styles */
+.footer-text {
+  text-align: center;
+  color: white;
+}
+
+/* Navbar styles */
+.navbar {
+  background-color: #000000;
+  color: white;
+  position: fixed;
+  top: 0;
+  width: 100%;
+  z-index: 1000;
+  line-height: 50px;
+}
+
+/* Nav Link Buttons (page links) */
+.nav-link {
+  background-color: #000000;
+  color: white;
+  top: 0;
+  z-index: 1000;
+  margin-left: 20px;
+}
+
+/* Nav Link Buttons (page links) (hovered) */
+.nav-link:hover {
+  color: white;
+  transition: all 0.3s ease;
+  transform: scale(1.1);
+}
+
+/* The AllTheBeansApp brand link */
+.navbar-brand {
+  background-color: #000000;
+  color: white;
+  top: 0;
+  z-index: 1000;
+  padding: 5px;
+  border: 2px solid white;
+  border-radius: 10px;
+}
+
+/* The AllTheBeansApp brand link (hovered) */
+.navbar-brand:hover {
+  color: white;
+  transition: all 0.3s ease;
+  transform: scale(1.1);
+}
+
+/* Dropdown Menu Icon (Media Query) */
+.navbar-toggler-icon {
+  background-image: url("data:image/svg+xml;charset=utf8,%3Csvg viewBox='0 0 30 30' xmlns='http://www.w3.org/2000/svg'%3E%3Cpath stroke='rgba(255, 255, 255, 1)' stroke-width='2' stroke-linecap='round' stroke-miterlimit='10' d='M4 7h22M4 15h22M4 23h22'/%3E%3C/svg%3E");
+}
+
+/* Container styles */
+.container {
+  position: relative;
+  text-align: center;
+  max-width: 80%;
+  margin-top: 50px;
+  margin-bottom: 60px;
+  line-height: 20px;
+}
+
+/* Container image styles (Bean images) */
+.container img {
+  height: 150px;
+  width: auto;
+}
+
+/* Bean of the day styles */
+.bean-of-the-day {
+  border: 2px solid #000000;
+  border-radius: 10px;
+  padding: 20px;
+  margin-top: 10px;
+  margin-bottom: 10px;
+}
+
+/* Previous/Next day Button styles */
+.back-button, .forward-button {
+  background-color: black;
+  color: white;
+  margin: 10px;
+  transition: all 0.3s ease;
+}
+
+/* Previous/Next day Button styles (hovered) */
+.back-button:hover, .forward-button:hover {
+  color: rgb(0, 0, 0);
+  border: 1px solid #000000;
+}
+
+/* Cart icon styles */
+.cart-icon {
+  position: fixed;
+  top: 25px;
+  right: 80px;
+  z-index: 1100;
+  background-color: #ffffff;
+  color: white;
+  padding: 5px;
+  border-radius: 5px;
+  cursor: pointer;
+  transition: transform 0.3s ease;
+}
+
+/* Cart icon styles (hovered) */
+.cart-icon:hover {
+  transform: scale(1.1);
+}
+
+/* Add to cart button styles */
+.add-to-cart-button {
+  background-color: #000000;
+  color: white;
+  padding: 5px 10px;
+  border: none;
+  border-radius: 5px;
+  cursor: pointer;
+  transition: background-color 0.3s ease;
+}
+
+/* Add to cart button styles (hovered) */
+.add-to-cart-button:hover {
+  background-color: #333333;
+}
+
+/* Remove from cart button styles */
+.remove-from-cart-button {
+  background-color: #ff0000;
+  color: white;
+  padding: 5px 10px;
+  border: none;
+  border-radius: 5px;
+  cursor: pointer;
+  transition: background-color 0.3s ease;
+}
+
+/* Remove from cart button styles (hovered) */
+.remove-from-cart-button:hover {
+  background-color: #cc0000;
+}
+
+/* Total price styles */
+.total-price {
+  font-size: 18px;
+  margin-top: 20px;
+}
+
+/* Cart page styles */
+.cart-page {
+  padding: 20px;
+}
+
+
+/* Cart item styles */
+.cart-item {
+  display: flex;
+  justify-content: space-between;
+  padding: 10px 0;
+  border-bottom: 1px solid #ddd;
+}
+
+
+
+/* About us styles */
+.about-us {
+  position: relative;
+  max-height: 70%;
+  max-width: 70%;
+  text-align: center;
+  margin-top: 50px;
+  margin-bottom: 60px;
+  line-height: 30px;
+}
+
+/* Bean quantity input styles */
+.bean-quantity-input {
+  width: 50px;
+  margin-right: 10px;
+}
+
+/* Media queries */
+@media (max-width: 700px) {
+
+  /* Collapsable menu (not displayed by default) */
+  .navbar-collapse {
+    transition: all 0.1s ease;
+    display: none;
+  }
+
+
+  .navbar-toggler {
+    display: block;
+  }
+
+  /* Menu items (Bean of the Day, Our Beans, About us) */
+  .navbar-nav {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+  }
+
+  body.navbar-expanded .navbar-collapse {
+    display: flex;
+  }
+
+  body.navbar-expanded {
+    padding-top: 190px;
+  }
+/* Make sure cart icon remains the same size even when screen is smaller and font size changes */
+  .cart-icon {
+    font-size: 16px;
+  }
+}
+
+@media (max-width: 670px) {
+  html {
+    transition: 0.3s;
+    font-size: 12px;
+  }
+/* Again, making sure cart icon remains the same size even when screen is smaller and font size changes*/
+  .cart-icon {
+    font-size: 16px;
+  }
+}

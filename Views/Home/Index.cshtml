@@ -1,0 +1,29 @@
+﻿@model AllTheBeansApp.Models.Bean
+
+
+
+        @* Only showing Bean of the Day for the bean which matches todays bean *@
+    <div class="container text-center">
+        @if (Model.DayOfTheWeek == DateTime.Now.DayOfWeek)
+        {
+            <h1>Bean of the Day</h1>
+        }
+        
+        @* Bean of the day container details *@
+        <div class="bean-of-the-day p-3 mt-3">
+            <img src="@Model.ImageUrl" alt="@Model.Name" class="img-fluid" />
+            <h2>@Model.Name</h2>
+            <p><strong>Cost per 100g:</strong> £@Model.CostPer100g</p>
+            <p><strong>Aroma:</strong> @Model.Aroma</p>
+            <p><strong>Colour:</strong> @Model.Colour</p>
+            <p><strong>Day of the Week:</strong> @Model.DayOfTheWeek</p>
+        </div>
+
+            @* Next/Previous buttons *@
+        <div class="d-flex justify-content-between mt-4">
+            <a class="btn back-button" asp-action="PreviousDay" asp-route-currentDay="@Model.DayOfTheWeek">Previous Day</a>
+            <a class="btn forward-button" asp-action="NextDay" asp-route-currentDay="@Model.DayOfTheWeek">Next Day</a>
+        </div>
+    </div>
+
+</html>

@@ -1,0 +1,10 @@
+{
+    "configurations": [
+        {
+            "name": "C#: AllTheBeansApp [Default Configuration]",
+            "type": "dotnet",
+            "request": "launch",
+            "projectPath": "${workspaceFolder}/AllTheBeansApp.csproj"
+        }
+    ]
+}
