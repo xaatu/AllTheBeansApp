@@ -29,7 +29,7 @@ As far as the task itself, I had a great time learning more about C# and buildin
 ## Project Structure
 - **Controllers**: Contains the logic for handling HTTP requests (e.g., `HomeController.cs`).
 - **Models**: Contains the data models and business logic (e.g., `BeansRepository.cs`, `Bean.cs`).
-- **Views**: Contains the Razor views for rendering HTML (e.g., [_Layout.cshtml], [Index.cshtml]).
+- **Views**: Contains the Razor views for rendering HTML (e.g., `_Layout.cshtml`, `Index.cshtml`).
 - **wwwroot**: Contains static files like CSS, JavaScript, and images.
 
 ## Features
