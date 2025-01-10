@@ -111,14 +111,14 @@
     <StaticWebAssetEndpoint Include="_content/AllTheBeansApp/js/site.js">
       <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\js\site.js'))</AssetFile>
       <Selectors><![CDATA[[]]]></Selectors>
-      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-V32PUl1vHl\u002BLUPoWdHRgy9cK0Zmyv7ASbQs1LKwL8oc="}]]]></EndpointProperties>
-      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"no-cache"},{"Name":"Content-Length","Value":"3941"},{"Name":"Content-Type","Value":"text/javascript"},{"Name":"ETag","Value":"\u0022V32PUl1vHl\u002BLUPoWdHRgy9cK0Zmyv7ASbQs1LKwL8oc=\u0022"},{"Name":"Last-Modified","Value":"Fri, 10 Jan 2025 15:04:21 GMT"}]]]></ResponseHeaders>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-zs4U4jrkXX56paOZJpEWLZTe4LVG0O\u002BGXZ1Xh\u002BNu4m0="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"no-cache"},{"Name":"Content-Length","Value":"3871"},{"Name":"Content-Type","Value":"text/javascript"},{"Name":"ETag","Value":"\u0022zs4U4jrkXX56paOZJpEWLZTe4LVG0O\u002BGXZ1Xh\u002BNu4m0=\u0022"},{"Name":"Last-Modified","Value":"Fri, 10 Jan 2025 15:09:54 GMT"}]]]></ResponseHeaders>
     </StaticWebAssetEndpoint>
-    <StaticWebAssetEndpoint Include="_content/AllTheBeansApp/js/site.tnp75kdpqx.js">
+    <StaticWebAssetEndpoint Include="_content/AllTheBeansApp/js/site.mapb6lsip1.js">
       <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\js\site.js'))</AssetFile>
       <Selectors><![CDATA[[]]]></Selectors>
-      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"tnp75kdpqx"},{"Name":"integrity","Value":"sha256-V32PUl1vHl\u002BLUPoWdHRgy9cK0Zmyv7ASbQs1LKwL8oc="},{"Name":"label","Value":"_content/AllTheBeansApp/js/site.js"}]]]></EndpointProperties>
-      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"3941"},{"Name":"Content-Type","Value":"text/javascript"},{"Name":"ETag","Value":"\u0022V32PUl1vHl\u002BLUPoWdHRgy9cK0Zmyv7ASbQs1LKwL8oc=\u0022"},{"Name":"Last-Modified","Value":"Fri, 10 Jan 2025 15:04:21 GMT"}]]]></ResponseHeaders>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"mapb6lsip1"},{"Name":"integrity","Value":"sha256-zs4U4jrkXX56paOZJpEWLZTe4LVG0O\u002BGXZ1Xh\u002BNu4m0="},{"Name":"label","Value":"_content/AllTheBeansApp/js/site.js"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"3871"},{"Name":"Content-Type","Value":"text/javascript"},{"Name":"ETag","Value":"\u0022zs4U4jrkXX56paOZJpEWLZTe4LVG0O\u002BGXZ1Xh\u002BNu4m0=\u0022"},{"Name":"Last-Modified","Value":"Fri, 10 Jan 2025 15:09:54 GMT"}]]]></ResponseHeaders>
     </StaticWebAssetEndpoint>
     <StaticWebAssetEndpoint Include="_content/AllTheBeansApp/lib/bootstrap/dist/css/bootstrap-grid.bqjiyaj88i.css">
       <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\lib\bootstrap\dist\css\bootstrap-grid.css'))</AssetFile>

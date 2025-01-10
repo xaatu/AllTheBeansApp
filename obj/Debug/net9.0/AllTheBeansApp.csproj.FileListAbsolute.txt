@@ -93,6 +93,6 @@
 /Users/sandyquigley/AllTheBeansApp/obj/Debug/net9.0/AllTheBeansApp.genruntimeconfig.cache
 /Users/sandyquigley/AllTheBeansApp/obj/Debug/net9.0/ref/AllTheBeansApp.dll
 /Users/sandyquigley/AllTheBeansApp/obj/Debug/net9.0/compressed/mqx2kii0im-6kratgk1t7.gz
-/Users/sandyquigley/AllTheBeansApp/obj/Debug/net9.0/compressed/a047v0aa53-tnp75kdpqx.gz
 /Users/sandyquigley/AllTheBeansApp/obj/Debug/net9.0/AllTheBeansApp.sourcelink.json
 /Users/sandyquigley/AllTheBeansApp/obj/Debug/net9.0/compressed/1zd1eo0ctz-8unfizsmsp.gz
+/Users/sandyquigley/AllTheBeansApp/obj/Debug/net9.0/compressed/a047v0aa53-mapb6lsip1.gz

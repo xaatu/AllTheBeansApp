@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "T+ooLHsNg6Gmr/SovokM59Sp+BMRZSggsvrUAeJgkeU=",
+  "Hash": "Qy0cJhE1Mb7D1kIt5uGxHwducan/cQxECvbmBswUS4k=",
   "Source": "AllTheBeansApp",
   "BasePath": "_content/AllTheBeansApp",
   "Mode": "Default",
@@ -479,12 +479,12 @@
       "OriginalItemSpec": "/Users/sandyquigley/AllTheBeansApp/wwwroot/lib/jquery/dist/jquery.min.js"
     },
     {
-      "Identity": "/Users/sandyquigley/AllTheBeansApp/obj/Debug/net9.0/compressed/a047v0aa53-tnp75kdpqx.gz",
+      "Identity": "/Users/sandyquigley/AllTheBeansApp/obj/Debug/net9.0/compressed/a047v0aa53-mapb6lsip1.gz",
       "SourceId": "AllTheBeansApp",
       "SourceType": "Discovered",
       "ContentRoot": "/Users/sandyquigley/AllTheBeansApp/obj/Debug/net9.0/compressed/",
       "BasePath": "_content/AllTheBeansApp",
-      "RelativePath": "js/site#[.{fingerprint=tnp75kdpqx}]?.js.gz",
+      "RelativePath": "js/site#[.{fingerprint=mapb6lsip1}]?.js.gz",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Alternative",
@@ -493,8 +493,8 @@
       "RelatedAsset": "/Users/sandyquigley/AllTheBeansApp/wwwroot/js/site.js",
       "AssetTraitName": "Content-Encoding",
       "AssetTraitValue": "gzip",
-      "Fingerprint": "70qwrycpxo",
-      "Integrity": "WfGgvGGaqTmZG5rOS8In3nhFAZp3nNJewkQYYLQXt4s=",
+      "Fingerprint": "8m3dnbbf65",
+      "Integrity": "cLmu7I/IQwL+eWQjBRDhIRXk7P7OZSW1+oxQgQYLvlU=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "/Users/sandyquigley/AllTheBeansApp/wwwroot/js/site.js"
@@ -1522,8 +1522,8 @@
       "RelatedAsset": "",
       "AssetTraitName": "",
       "AssetTraitValue": "",
-      "Fingerprint": "tnp75kdpqx",
-      "Integrity": "V32PUl1vHl+LUPoWdHRgy9cK0Zmyv7ASbQs1LKwL8oc=",
+      "Fingerprint": "mapb6lsip1",
+      "Integrity": "zs4U4jrkXX56paOZJpEWLZTe4LVG0O+GXZ1Xh+Nu4m0=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot/js/site.js"
@@ -3962,12 +3962,12 @@
     },
     {
       "Route": "js/site.js",
-      "AssetFile": "/Users/sandyquigley/AllTheBeansApp/obj/Debug/net9.0/compressed/a047v0aa53-tnp75kdpqx.gz",
+      "AssetFile": "/Users/sandyquigley/AllTheBeansApp/obj/Debug/net9.0/compressed/a047v0aa53-mapb6lsip1.gz",
       "Selectors": [
         {
           "Name": "Content-Encoding",
           "Value": "gzip",
-          "Quality": "0.000800000000"
+          "Quality": "0.000814995925"
         }
       ],
       "ResponseHeaders": [
@@ -3977,15 +3977,15 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "1249"
+          "Value": "1226"
         },
         {
           "Name": "ETag",
-          "Value": "\"WfGgvGGaqTmZG5rOS8In3nhFAZp3nNJewkQYYLQXt4s=\""
+          "Value": "\"cLmu7I/IQwL+eWQjBRDhIRXk7P7OZSW1+oxQgQYLvlU=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Fri, 10 Jan 2025 15:04:21 GMT"
+          "Value": "Fri, 10 Jan 2025 15:09:54 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -4005,13 +4005,13 @@
         },
         {
           "Name": "ETag",
-          "Value": "W/\"V32PUl1vHl+LUPoWdHRgy9cK0Zmyv7ASbQs1LKwL8oc=\""
+          "Value": "W/\"zs4U4jrkXX56paOZJpEWLZTe4LVG0O+GXZ1Xh+Nu4m0=\""
         }
       ],
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-V32PUl1vHl+LUPoWdHRgy9cK0Zmyv7ASbQs1LKwL8oc="
+          "Value": "sha256-zs4U4jrkXX56paOZJpEWLZTe4LVG0O+GXZ1Xh+Nu4m0="
         }
       ]
     },
@@ -4026,7 +4026,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "3941"
+          "Value": "3871"
         },
         {
           "Name": "Content-Type",
@@ -4034,11 +4034,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"V32PUl1vHl+LUPoWdHRgy9cK0Zmyv7ASbQs1LKwL8oc=\""
+          "Value": "\"zs4U4jrkXX56paOZJpEWLZTe4LVG0O+GXZ1Xh+Nu4m0=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Fri, 10 Jan 2025 15:04:21 GMT"
+          "Value": "Fri, 10 Jan 2025 15:09:54 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -4048,13 +4048,13 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-V32PUl1vHl+LUPoWdHRgy9cK0Zmyv7ASbQs1LKwL8oc="
+          "Value": "sha256-zs4U4jrkXX56paOZJpEWLZTe4LVG0O+GXZ1Xh+Nu4m0="
         }
       ]
     },
     {
       "Route": "js/site.js.gz",
-      "AssetFile": "/Users/sandyquigley/AllTheBeansApp/obj/Debug/net9.0/compressed/a047v0aa53-tnp75kdpqx.gz",
+      "AssetFile": "/Users/sandyquigley/AllTheBeansApp/obj/Debug/net9.0/compressed/a047v0aa53-mapb6lsip1.gz",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -4063,7 +4063,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "1249"
+          "Value": "1226"
         },
         {
           "Name": "Content-Type",
@@ -4071,11 +4071,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"WfGgvGGaqTmZG5rOS8In3nhFAZp3nNJewkQYYLQXt4s=\""
+          "Value": "\"cLmu7I/IQwL+eWQjBRDhIRXk7P7OZSW1+oxQgQYLvlU=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Fri, 10 Jan 2025 15:04:21 GMT"
+          "Value": "Fri, 10 Jan 2025 15:09:54 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -4093,18 +4093,18 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-WfGgvGGaqTmZG5rOS8In3nhFAZp3nNJewkQYYLQXt4s="
+          "Value": "sha256-cLmu7I/IQwL+eWQjBRDhIRXk7P7OZSW1+oxQgQYLvlU="
         }
       ]
     },
     {
-      "Route": "js/site.tnp75kdpqx.js",
-      "AssetFile": "/Users/sandyquigley/AllTheBeansApp/obj/Debug/net9.0/compressed/a047v0aa53-tnp75kdpqx.gz",
+      "Route": "js/site.mapb6lsip1.js",
+      "AssetFile": "/Users/sandyquigley/AllTheBeansApp/obj/Debug/net9.0/compressed/a047v0aa53-mapb6lsip1.gz",
       "Selectors": [
         {
           "Name": "Content-Encoding",
           "Value": "gzip",
-          "Quality": "0.000800000000"
+          "Quality": "0.000814995925"
         }
       ],
       "ResponseHeaders": [
@@ -4114,15 +4114,15 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "1249"
+          "Value": "1226"
         },
         {
           "Name": "ETag",
-          "Value": "\"WfGgvGGaqTmZG5rOS8In3nhFAZp3nNJewkQYYLQXt4s=\""
+          "Value": "\"cLmu7I/IQwL+eWQjBRDhIRXk7P7OZSW1+oxQgQYLvlU=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Fri, 10 Jan 2025 15:04:21 GMT"
+          "Value": "Fri, 10 Jan 2025 15:09:54 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -4142,13 +4142,13 @@
         },
         {
           "Name": "ETag",
-          "Value": "W/\"V32PUl1vHl+LUPoWdHRgy9cK0Zmyv7ASbQs1LKwL8oc=\""
+          "Value": "W/\"zs4U4jrkXX56paOZJpEWLZTe4LVG0O+GXZ1Xh+Nu4m0=\""
         }
       ],
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "tnp75kdpqx"
+          "Value": "mapb6lsip1"
         },
         {
           "Name": "label",
@@ -4156,12 +4156,12 @@
         },
         {
           "Name": "integrity",
-          "Value": "sha256-V32PUl1vHl+LUPoWdHRgy9cK0Zmyv7ASbQs1LKwL8oc="
+          "Value": "sha256-zs4U4jrkXX56paOZJpEWLZTe4LVG0O+GXZ1Xh+Nu4m0="
         }
       ]
     },
     {
-      "Route": "js/site.tnp75kdpqx.js",
+      "Route": "js/site.mapb6lsip1.js",
       "AssetFile": "/Users/sandyquigley/AllTheBeansApp/wwwroot/js/site.js",
       "Selectors": [],
       "ResponseHeaders": [
@@ -4171,7 +4171,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "3941"
+          "Value": "3871"
         },
         {
           "Name": "Content-Type",
@@ -4179,11 +4179,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"V32PUl1vHl+LUPoWdHRgy9cK0Zmyv7ASbQs1LKwL8oc=\""
+          "Value": "\"zs4U4jrkXX56paOZJpEWLZTe4LVG0O+GXZ1Xh+Nu4m0=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Fri, 10 Jan 2025 15:04:21 GMT"
+          "Value": "Fri, 10 Jan 2025 15:09:54 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -4193,7 +4193,7 @@
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "tnp75kdpqx"
+          "Value": "mapb6lsip1"
         },
         {
           "Name": "label",
@@ -4201,13 +4201,13 @@
         },
         {
           "Name": "integrity",
-          "Value": "sha256-V32PUl1vHl+LUPoWdHRgy9cK0Zmyv7ASbQs1LKwL8oc="
+          "Value": "sha256-zs4U4jrkXX56paOZJpEWLZTe4LVG0O+GXZ1Xh+Nu4m0="
         }
       ]
     },
     {
-      "Route": "js/site.tnp75kdpqx.js.gz",
-      "AssetFile": "/Users/sandyquigley/AllTheBeansApp/obj/Debug/net9.0/compressed/a047v0aa53-tnp75kdpqx.gz",
+      "Route": "js/site.mapb6lsip1.js.gz",
+      "AssetFile": "/Users/sandyquigley/AllTheBeansApp/obj/Debug/net9.0/compressed/a047v0aa53-mapb6lsip1.gz",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -4216,7 +4216,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "1249"
+          "Value": "1226"
         },
         {
           "Name": "Content-Type",
@@ -4224,11 +4224,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"WfGgvGGaqTmZG5rOS8In3nhFAZp3nNJewkQYYLQXt4s=\""
+          "Value": "\"cLmu7I/IQwL+eWQjBRDhIRXk7P7OZSW1+oxQgQYLvlU=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Fri, 10 Jan 2025 15:04:21 GMT"
+          "Value": "Fri, 10 Jan 2025 15:09:54 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -4246,7 +4246,7 @@
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "tnp75kdpqx"
+          "Value": "mapb6lsip1"
         },
         {
           "Name": "label",
@@ -4254,7 +4254,7 @@
         },
         {
           "Name": "integrity",
-          "Value": "sha256-WfGgvGGaqTmZG5rOS8In3nhFAZp3nNJewkQYYLQXt4s="
+          "Value": "sha256-cLmu7I/IQwL+eWQjBRDhIRXk7P7OZSW1+oxQgQYLvlU="
         }
       ]
     },
