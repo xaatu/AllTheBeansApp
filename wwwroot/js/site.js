@@ -1,5 +1,5 @@
 ﻿document.addEventListener('DOMContentLoaded', function() {
-  // Toggle for navbar expand
+  // navbar expand
   var navbarToggler = document.querySelector('.navbar-toggler');
   navbarToggler.addEventListener('click', function() {
     document.body.classList.toggle('navbar-expanded');
@@ -17,7 +17,7 @@
     window.location.href = '/cart';
   });
 
-  // Add to cart functionality for each bean (Bean of the day page)
+  // Add to cart functionality for each bean (BOTD page)
   document.querySelectorAll('.bean-of-the-day').forEach(function(bean) {
     var quantityInput = document.createElement('input');
     quantityInput.type = 'number';
@@ -51,7 +51,7 @@
     });
   });
 
-  // Total price 
+  // total price 
   if (window.location.pathname === '/cart') {
     var cartPage = document.createElement('div');
     cartPage.className = 'cart-page';
@@ -86,7 +86,7 @@
         if (item) {
           item.quantity = newQuantity;
           localStorage.setItem('cart', JSON.stringify(cart));
-          location.reload(); // Reloads to update price
+          location.reload();
         }
       });
     });
@@ -97,7 +97,7 @@
         var beanName = this.getAttribute('data-name');
         cart = cart.filter(item => item.name !== beanName);
         localStorage.setItem('cart', JSON.stringify(cart));
-        location.reload(); // Reloads to update
+        location.reload();
       });
     });
   }

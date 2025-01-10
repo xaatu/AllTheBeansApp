@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "JLasr+pIiCC/fzY8p3c2uP8+PFJ2qgh+GpPLKINFQSU=",
+  "Hash": "T+ooLHsNg6Gmr/SovokM59Sp+BMRZSggsvrUAeJgkeU=",
   "Source": "AllTheBeansApp",
   "BasePath": "_content/AllTheBeansApp",
   "Mode": "Default",
@@ -122,12 +122,12 @@
       "OriginalItemSpec": "/Users/sandyquigley/AllTheBeansApp/wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.css.map"
     },
     {
-      "Identity": "/Users/sandyquigley/AllTheBeansApp/obj/Debug/net9.0/compressed/1zd1eo0ctz-61n19gt1b8.gz",
+      "Identity": "/Users/sandyquigley/AllTheBeansApp/obj/Debug/net9.0/compressed/1zd1eo0ctz-8unfizsmsp.gz",
       "SourceId": "AllTheBeansApp",
       "SourceType": "Discovered",
       "ContentRoot": "/Users/sandyquigley/AllTheBeansApp/obj/Debug/net9.0/compressed/",
       "BasePath": "_content/AllTheBeansApp",
-      "RelativePath": "favicon#[.{fingerprint=61n19gt1b8}]?.ico.gz",
+      "RelativePath": "favicon#[.{fingerprint=8unfizsmsp}]?.ico.gz",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Alternative",
@@ -136,8 +136,8 @@
       "RelatedAsset": "/Users/sandyquigley/AllTheBeansApp/wwwroot/favicon.ico",
       "AssetTraitName": "Content-Encoding",
       "AssetTraitValue": "gzip",
-      "Fingerprint": "jefwejb9ld",
-      "Integrity": "+/824NtfTA0L7Mr42Fo+86YJP4R5cigdi9S7Fx5VVl4=",
+      "Fingerprint": "lo3wpma6tw",
+      "Integrity": "pcu6Pcx6ErVdmLt3KayGq+waxiXS7eqAREmsPBREk1o=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "/Users/sandyquigley/AllTheBeansApp/wwwroot/favicon.ico"
@@ -1354,8 +1354,8 @@
       "RelatedAsset": "",
       "AssetTraitName": "",
       "AssetTraitValue": "",
-      "Fingerprint": "61n19gt1b8",
-      "Integrity": "Jtxf9L+5ITKRc1gIRl4VbUpGkRNfOBXjYTdhJD4facM=",
+      "Fingerprint": "8unfizsmsp",
+      "Integrity": "kNtjF2TlFNu8tE6PH178NxYb09FhiXJ5N8n0AhOSCzk=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot/favicon.ico"
@@ -3089,13 +3089,13 @@
       ]
     },
     {
-      "Route": "favicon.61n19gt1b8.ico",
-      "AssetFile": "/Users/sandyquigley/AllTheBeansApp/obj/Debug/net9.0/compressed/1zd1eo0ctz-61n19gt1b8.gz",
+      "Route": "favicon.8unfizsmsp.ico",
+      "AssetFile": "/Users/sandyquigley/AllTheBeansApp/obj/Debug/net9.0/compressed/1zd1eo0ctz-8unfizsmsp.gz",
       "Selectors": [
         {
           "Name": "Content-Encoding",
           "Value": "gzip",
-          "Quality": "0.000405022276"
+          "Quality": "0.000140075641"
         }
       ],
       "ResponseHeaders": [
@@ -3105,15 +3105,15 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "2468"
+          "Value": "7138"
         },
         {
           "Name": "ETag",
-          "Value": "\"+/824NtfTA0L7Mr42Fo+86YJP4R5cigdi9S7Fx5VVl4=\""
+          "Value": "\"pcu6Pcx6ErVdmLt3KayGq+waxiXS7eqAREmsPBREk1o=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Mon, 30 Dec 2024 13:53:49 GMT"
+          "Value": "Wed, 08 Jan 2025 14:20:23 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -3133,13 +3133,13 @@
         },
         {
           "Name": "ETag",
-          "Value": "W/\"Jtxf9L+5ITKRc1gIRl4VbUpGkRNfOBXjYTdhJD4facM=\""
+          "Value": "W/\"kNtjF2TlFNu8tE6PH178NxYb09FhiXJ5N8n0AhOSCzk=\""
         }
       ],
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "61n19gt1b8"
+          "Value": "8unfizsmsp"
         },
         {
           "Name": "label",
@@ -3147,12 +3147,12 @@
         },
         {
           "Name": "integrity",
-          "Value": "sha256-Jtxf9L+5ITKRc1gIRl4VbUpGkRNfOBXjYTdhJD4facM="
+          "Value": "sha256-kNtjF2TlFNu8tE6PH178NxYb09FhiXJ5N8n0AhOSCzk="
         }
       ]
     },
     {
-      "Route": "favicon.61n19gt1b8.ico",
+      "Route": "favicon.8unfizsmsp.ico",
       "AssetFile": "/Users/sandyquigley/AllTheBeansApp/wwwroot/favicon.ico",
       "Selectors": [],
       "ResponseHeaders": [
@@ -3162,7 +3162,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "5430"
+          "Value": "15406"
         },
         {
           "Name": "Content-Type",
@@ -3170,11 +3170,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"Jtxf9L+5ITKRc1gIRl4VbUpGkRNfOBXjYTdhJD4facM=\""
+          "Value": "\"kNtjF2TlFNu8tE6PH178NxYb09FhiXJ5N8n0AhOSCzk=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Mon, 30 Dec 2024 13:53:49 GMT"
+          "Value": "Wed, 08 Jan 2025 14:20:23 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -3184,7 +3184,7 @@
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "61n19gt1b8"
+          "Value": "8unfizsmsp"
         },
         {
           "Name": "label",
@@ -3192,13 +3192,13 @@
         },
         {
           "Name": "integrity",
-          "Value": "sha256-Jtxf9L+5ITKRc1gIRl4VbUpGkRNfOBXjYTdhJD4facM="
+          "Value": "sha256-kNtjF2TlFNu8tE6PH178NxYb09FhiXJ5N8n0AhOSCzk="
         }
       ]
     },
     {
-      "Route": "favicon.61n19gt1b8.ico.gz",
-      "AssetFile": "/Users/sandyquigley/AllTheBeansApp/obj/Debug/net9.0/compressed/1zd1eo0ctz-61n19gt1b8.gz",
+      "Route": "favicon.8unfizsmsp.ico.gz",
+      "AssetFile": "/Users/sandyquigley/AllTheBeansApp/obj/Debug/net9.0/compressed/1zd1eo0ctz-8unfizsmsp.gz",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -3207,7 +3207,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "2468"
+          "Value": "7138"
         },
         {
           "Name": "Content-Type",
@@ -3215,11 +3215,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"+/824NtfTA0L7Mr42Fo+86YJP4R5cigdi9S7Fx5VVl4=\""
+          "Value": "\"pcu6Pcx6ErVdmLt3KayGq+waxiXS7eqAREmsPBREk1o=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Mon, 30 Dec 2024 13:53:49 GMT"
+          "Value": "Wed, 08 Jan 2025 14:20:23 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -3237,7 +3237,7 @@
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "61n19gt1b8"
+          "Value": "8unfizsmsp"
         },
         {
           "Name": "label",
@@ -3245,18 +3245,18 @@
         },
         {
           "Name": "integrity",
-          "Value": "sha256-+/824NtfTA0L7Mr42Fo+86YJP4R5cigdi9S7Fx5VVl4="
+          "Value": "sha256-pcu6Pcx6ErVdmLt3KayGq+waxiXS7eqAREmsPBREk1o="
         }
       ]
     },
     {
       "Route": "favicon.ico",
-      "AssetFile": "/Users/sandyquigley/AllTheBeansApp/obj/Debug/net9.0/compressed/1zd1eo0ctz-61n19gt1b8.gz",
+      "AssetFile": "/Users/sandyquigley/AllTheBeansApp/obj/Debug/net9.0/compressed/1zd1eo0ctz-8unfizsmsp.gz",
       "Selectors": [
         {
           "Name": "Content-Encoding",
           "Value": "gzip",
-          "Quality": "0.000405022276"
+          "Quality": "0.000140075641"
         }
       ],
       "ResponseHeaders": [
@@ -3266,15 +3266,15 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "2468"
+          "Value": "7138"
         },
         {
           "Name": "ETag",
-          "Value": "\"+/824NtfTA0L7Mr42Fo+86YJP4R5cigdi9S7Fx5VVl4=\""
+          "Value": "\"pcu6Pcx6ErVdmLt3KayGq+waxiXS7eqAREmsPBREk1o=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Mon, 30 Dec 2024 13:53:49 GMT"
+          "Value": "Wed, 08 Jan 2025 14:20:23 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -3294,13 +3294,13 @@
         },
         {
           "Name": "ETag",
-          "Value": "W/\"Jtxf9L+5ITKRc1gIRl4VbUpGkRNfOBXjYTdhJD4facM=\""
+          "Value": "W/\"kNtjF2TlFNu8tE6PH178NxYb09FhiXJ5N8n0AhOSCzk=\""
         }
       ],
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-Jtxf9L+5ITKRc1gIRl4VbUpGkRNfOBXjYTdhJD4facM="
+          "Value": "sha256-kNtjF2TlFNu8tE6PH178NxYb09FhiXJ5N8n0AhOSCzk="
         }
       ]
     },
@@ -3315,7 +3315,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "5430"
+          "Value": "15406"
         },
         {
           "Name": "Content-Type",
@@ -3323,11 +3323,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"Jtxf9L+5ITKRc1gIRl4VbUpGkRNfOBXjYTdhJD4facM=\""
+          "Value": "\"kNtjF2TlFNu8tE6PH178NxYb09FhiXJ5N8n0AhOSCzk=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Mon, 30 Dec 2024 13:53:49 GMT"
+          "Value": "Wed, 08 Jan 2025 14:20:23 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -3337,13 +3337,13 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-Jtxf9L+5ITKRc1gIRl4VbUpGkRNfOBXjYTdhJD4facM="
+          "Value": "sha256-kNtjF2TlFNu8tE6PH178NxYb09FhiXJ5N8n0AhOSCzk="
         }
       ]
     },
     {
       "Route": "favicon.ico.gz",
-      "AssetFile": "/Users/sandyquigley/AllTheBeansApp/obj/Debug/net9.0/compressed/1zd1eo0ctz-61n19gt1b8.gz",
+      "AssetFile": "/Users/sandyquigley/AllTheBeansApp/obj/Debug/net9.0/compressed/1zd1eo0ctz-8unfizsmsp.gz",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -3352,7 +3352,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "2468"
+          "Value": "7138"
         },
         {
           "Name": "Content-Type",
@@ -3360,11 +3360,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"+/824NtfTA0L7Mr42Fo+86YJP4R5cigdi9S7Fx5VVl4=\""
+          "Value": "\"pcu6Pcx6ErVdmLt3KayGq+waxiXS7eqAREmsPBREk1o=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Mon, 30 Dec 2024 13:53:49 GMT"
+          "Value": "Wed, 08 Jan 2025 14:20:23 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -3382,7 +3382,7 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-+/824NtfTA0L7Mr42Fo+86YJP4R5cigdi9S7Fx5VVl4="
+          "Value": "sha256-pcu6Pcx6ErVdmLt3KayGq+waxiXS7eqAREmsPBREk1o="
         }
       ]
     },
@@ -3985,7 +3985,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Wed, 08 Jan 2025 12:59:53 GMT"
+          "Value": "Fri, 10 Jan 2025 15:04:21 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -4038,7 +4038,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Wed, 08 Jan 2025 12:59:53 GMT"
+          "Value": "Fri, 10 Jan 2025 15:04:21 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -4075,7 +4075,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Wed, 08 Jan 2025 12:59:53 GMT"
+          "Value": "Fri, 10 Jan 2025 15:04:21 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -4122,7 +4122,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Wed, 08 Jan 2025 12:59:53 GMT"
+          "Value": "Fri, 10 Jan 2025 15:04:21 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -4183,7 +4183,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Wed, 08 Jan 2025 12:59:53 GMT"
+          "Value": "Fri, 10 Jan 2025 15:04:21 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -4228,7 +4228,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Wed, 08 Jan 2025 12:59:53 GMT"
+          "Value": "Fri, 10 Jan 2025 15:04:21 GMT"
         },
         {
           "Name": "Cache-Control",

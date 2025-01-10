@@ -7,6 +7,11 @@ I kept the design functional, but simple, as the specification mentioned that de
 
 As far as the task itself, I had a great time learning more about C# and building on my knowledge of HTML, CSS & JS within the .NET framework - it does seem to be an extremely tidy and efficient system.
 
+NB - I created the project using the:
+    ```bash
+    dotnet new mvc -n AllTheBeansApp
+    ``` command, and as a result there are a number of default files. As it is my first time using this framework I have left some of the files I was less familiar with alone, but am actively researching their use cases.
+
 ## Requirements
 - .NET SDK (version 5.0 or later)
 - Newtonsoft.Json (version 13.0.3)
