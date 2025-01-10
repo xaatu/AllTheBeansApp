@@ -1,7 +1,15 @@
 # AllTheBeansApp
 
 ## Description
-AllTheBeansApp is my first web application built using C# and ASP.NET Core. It shows different types of beans and features a "Bean of the Day" section, a list of all available beans with information about each bean, and a cart feature where customers can add and remove beans.
+AllTheBeansApp is my first web application built using C# and ASP.NET Core. It shows different types of beans and features a "Bean of the Day" section:
+![Bean Of The Day](wwwroot/images/botd.png)
+
+A list of all available beans with information about each bean:
+![Our Beans](wwwroot/images/ourBeans.png)
+ 
+A cart feature where customers can add and remove beans, this image also shows the media query layout for smaller screens:
+![Cart](wwwroot/images/cart.png)
+
 
 I kept the design functional, but simple, as the specification mentioned that design skills would not be judged. 
 

@@ -29,14 +29,14 @@ namespace AllTheBeansApp.Controllers
         // use current day to get previous day (-1)
         public IActionResult PreviousDay(DayOfWeek currentDay)
         {
-            var previousDay = currentDay - 1;
+            var previousDay = (DayOfWeek)(((int)currentDay - 1 + 7) % 7);
             var beanOfTheDay = _beansRepository.GetBeanOfTheDay(previousDay);
             return View("Index", beanOfTheDay);
         }
         // use current day to get next day (+1)
         public IActionResult NextDay(DayOfWeek currentDay)
         {
-            var nextDay = currentDay + 1;
+            var nextDay = (DayOfWeek)(((int)currentDay + 1) % 7);
             var beanOfTheDay = _beansRepository.GetBeanOfTheDay(nextDay);
             return View("Index", beanOfTheDay);
         }
