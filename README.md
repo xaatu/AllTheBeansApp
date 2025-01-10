@@ -14,7 +14,7 @@ NB - I created the project using the:
     command, and as a result there are a number of default files. As it is my first time using this framework I have left some of the files I was less familiar with alone, but am actively researching their use cases.
 
 ## Requirements
-- .NET SDK (version 5.0 or later)
+- .NET SDK (version 9.0 or later)
 - Newtonsoft.Json (version 13.0.3)
 - Node.js and npm (for managing client-side packages)
 
