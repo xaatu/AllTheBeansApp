@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("AllTheBeansApp")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+15144723f7f5090652fde7d9caf2c91374e77d8e")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+1c5dfe057c3cb2f8caa2f34737fbe01a03809a74")]
 [assembly: System.Reflection.AssemblyProductAttribute("AllTheBeansApp")]
 [assembly: System.Reflection.AssemblyTitleAttribute("AllTheBeansApp")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
