@@ -42,6 +42,14 @@ NB - I created the project using the:
     ```bash
     npm install
     ```
+3. (alternate) Install the dependencies:
+">NuGet" in search bar
+Click Add NuGet Package:
+then type:
+    
+    Install-Package Newtonsoft.Json
+    
+
 
 ## Project Structure
 - **Controllers**: Contains the logic for handling HTTP requests (e.g., `HomeController.cs`).

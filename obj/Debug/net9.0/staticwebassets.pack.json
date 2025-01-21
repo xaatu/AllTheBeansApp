@@ -17,8 +17,16 @@
       "PackagePath": "staticwebassets/images/beans.jpg"
     },
     {
+      "Id": "/Users/sandyquigley/AllTheBeansApp/wwwroot/images/botd.png",
+      "PackagePath": "staticwebassets/images/botd.png"
+    },
+    {
       "Id": "/Users/sandyquigley/AllTheBeansApp/wwwroot/images/bourbon.jpg",
       "PackagePath": "staticwebassets/images/bourbon.jpg"
+    },
+    {
+      "Id": "/Users/sandyquigley/AllTheBeansApp/wwwroot/images/cart.png",
+      "PackagePath": "staticwebassets/images/cart.png"
     },
     {
       "Id": "/Users/sandyquigley/AllTheBeansApp/wwwroot/images/caturra.jpg",
@@ -31,6 +39,10 @@
     {
       "Id": "/Users/sandyquigley/AllTheBeansApp/wwwroot/images/liberica.jpg",
       "PackagePath": "staticwebassets/images/liberica.jpg"
+    },
+    {
+      "Id": "/Users/sandyquigley/AllTheBeansApp/wwwroot/images/ourBeans.png",
+      "PackagePath": "staticwebassets/images/ourBeans.png"
     },
     {
       "Id": "/Users/sandyquigley/AllTheBeansApp/wwwroot/images/robusta.jpg",

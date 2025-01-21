@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "Qy0cJhE1Mb7D1kIt5uGxHwducan/cQxECvbmBswUS4k=",
+  "Hash": "JgnBUxMkuep4DaYrm0u+zw9soP/zp9Tf60wR+vtX3VE=",
   "Source": "AllTheBeansApp",
   "BasePath": "_content/AllTheBeansApp",
   "Mode": "Default",
@@ -1403,6 +1403,27 @@
       "OriginalItemSpec": "wwwroot/images/beans.jpg"
     },
     {
+      "Identity": "/Users/sandyquigley/AllTheBeansApp/wwwroot/images/botd.png",
+      "SourceId": "AllTheBeansApp",
+      "SourceType": "Discovered",
+      "ContentRoot": "/Users/sandyquigley/AllTheBeansApp/wwwroot/",
+      "BasePath": "_content/AllTheBeansApp",
+      "RelativePath": "images/botd#[.{fingerprint}]?.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "8xa0zvpvru",
+      "Integrity": "tJkPrKMxGMrx16VMxqT0bmGsKXRxltQ5Bz2P2K6xIYw=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot/images/botd.png"
+    },
+    {
       "Identity": "/Users/sandyquigley/AllTheBeansApp/wwwroot/images/bourbon.jpg",
       "SourceId": "AllTheBeansApp",
       "SourceType": "Discovered",
@@ -1422,6 +1443,27 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot/images/bourbon.jpg"
+    },
+    {
+      "Identity": "/Users/sandyquigley/AllTheBeansApp/wwwroot/images/cart.png",
+      "SourceId": "AllTheBeansApp",
+      "SourceType": "Discovered",
+      "ContentRoot": "/Users/sandyquigley/AllTheBeansApp/wwwroot/",
+      "BasePath": "_content/AllTheBeansApp",
+      "RelativePath": "images/cart#[.{fingerprint}]?.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "y0kltkbih7",
+      "Integrity": "XmrBjys2HU/Jpx7DXQNj9YAU+8J8M3b30a8lc6IdjQI=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot/images/cart.png"
     },
     {
       "Identity": "/Users/sandyquigley/AllTheBeansApp/wwwroot/images/caturra.jpg",
@@ -1485,6 +1527,27 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot/images/liberica.jpg"
+    },
+    {
+      "Identity": "/Users/sandyquigley/AllTheBeansApp/wwwroot/images/ourBeans.png",
+      "SourceId": "AllTheBeansApp",
+      "SourceType": "Discovered",
+      "ContentRoot": "/Users/sandyquigley/AllTheBeansApp/wwwroot/",
+      "BasePath": "_content/AllTheBeansApp",
+      "RelativePath": "images/ourBeans#[.{fingerprint}]?.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "1g683j3zz5",
+      "Integrity": "Xy7sx+ZPbaSxwaH/BF2p2rwjdRMwSP9n0BA0i+27Wtw=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot/images/ourBeans.png"
     },
     {
       "Identity": "/Users/sandyquigley/AllTheBeansApp/wwwroot/images/robusta.jpg",
@@ -3551,6 +3614,88 @@
       ]
     },
     {
+      "Route": "images/botd.8xa0zvpvru.png",
+      "AssetFile": "/Users/sandyquigley/AllTheBeansApp/wwwroot/images/botd.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "15423"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"tJkPrKMxGMrx16VMxqT0bmGsKXRxltQ5Bz2P2K6xIYw=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 10 Jan 2025 16:13:59 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "8xa0zvpvru"
+        },
+        {
+          "Name": "label",
+          "Value": "images/botd.png"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-tJkPrKMxGMrx16VMxqT0bmGsKXRxltQ5Bz2P2K6xIYw="
+        }
+      ]
+    },
+    {
+      "Route": "images/botd.png",
+      "AssetFile": "/Users/sandyquigley/AllTheBeansApp/wwwroot/images/botd.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "15423"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"tJkPrKMxGMrx16VMxqT0bmGsKXRxltQ5Bz2P2K6xIYw=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 10 Jan 2025 16:13:59 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-tJkPrKMxGMrx16VMxqT0bmGsKXRxltQ5Bz2P2K6xIYw="
+        }
+      ]
+    },
+    {
       "Route": "images/bourbon.5c8ylhwjb0.jpg",
       "AssetFile": "/Users/sandyquigley/AllTheBeansApp/wwwroot/images/bourbon.jpg",
       "Selectors": [],
@@ -3629,6 +3774,88 @@
         {
           "Name": "integrity",
           "Value": "sha256-tTfz/dii1E0fNB6DwcKTQEpaavRHevjWOpbpaXlFA74="
+        }
+      ]
+    },
+    {
+      "Route": "images/cart.png",
+      "AssetFile": "/Users/sandyquigley/AllTheBeansApp/wwwroot/images/cart.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "8246"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"XmrBjys2HU/Jpx7DXQNj9YAU+8J8M3b30a8lc6IdjQI=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 10 Jan 2025 16:14:11 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-XmrBjys2HU/Jpx7DXQNj9YAU+8J8M3b30a8lc6IdjQI="
+        }
+      ]
+    },
+    {
+      "Route": "images/cart.y0kltkbih7.png",
+      "AssetFile": "/Users/sandyquigley/AllTheBeansApp/wwwroot/images/cart.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "8246"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"XmrBjys2HU/Jpx7DXQNj9YAU+8J8M3b30a8lc6IdjQI=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 10 Jan 2025 16:14:11 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "y0kltkbih7"
+        },
+        {
+          "Name": "label",
+          "Value": "images/cart.png"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-XmrBjys2HU/Jpx7DXQNj9YAU+8J8M3b30a8lc6IdjQI="
         }
       ]
     },
@@ -3875,6 +4102,88 @@
         {
           "Name": "integrity",
           "Value": "sha256-FdiRr9R5Qq3DSrKZ2WoKybJxcNNb7RQdbxDzOgEZKp8="
+        }
+      ]
+    },
+    {
+      "Route": "images/ourBeans.1g683j3zz5.png",
+      "AssetFile": "/Users/sandyquigley/AllTheBeansApp/wwwroot/images/ourBeans.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "13750"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"Xy7sx+ZPbaSxwaH/BF2p2rwjdRMwSP9n0BA0i+27Wtw=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 10 Jan 2025 16:14:05 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "1g683j3zz5"
+        },
+        {
+          "Name": "label",
+          "Value": "images/ourBeans.png"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-Xy7sx+ZPbaSxwaH/BF2p2rwjdRMwSP9n0BA0i+27Wtw="
+        }
+      ]
+    },
+    {
+      "Route": "images/ourBeans.png",
+      "AssetFile": "/Users/sandyquigley/AllTheBeansApp/wwwroot/images/ourBeans.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "13750"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"Xy7sx+ZPbaSxwaH/BF2p2rwjdRMwSP9n0BA0i+27Wtw=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 10 Jan 2025 16:14:05 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-Xy7sx+ZPbaSxwaH/BF2p2rwjdRMwSP9n0BA0i+27Wtw="
         }
       ]
     },
